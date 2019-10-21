@@ -18,7 +18,7 @@ function viewCart() {
   var viewCart = {'itemName'; 'price'};
 var random (price) = Math.floor(Math.random ()*100)+1
   return (viewCart)
-  
+
   // write your code here
 }
 
