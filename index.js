@@ -18,7 +18,7 @@ function viewCart() {
   var viewCart = {'itemName'; 'price'};
 var random (price) = Math.floor(Math.random ()*100)+1
   return (viewCart)
-
+console.log ("In your cart, you have bananas at $('price'), pancake batter at $('price'), and eggs at $('price').")
   // write your code here
 }
 
